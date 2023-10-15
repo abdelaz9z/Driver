@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Driver" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Driver" parent="Base.Theme.Driver" />
+
+    <style name="progressIndicator">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:indeterminate">true</item>
+        <item name="android:visibility">invisible</item>
+        <item name="indicatorColor">@color/venetian_red</item>
+        <item name="trackColor">@color/cyan_cobalt_blue</item>
+    </style>
+</resources>

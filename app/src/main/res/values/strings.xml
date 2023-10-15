@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="downloading_update">Downloading update …</string>
+    <string name="user_id">User Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="driver_app_description">Receiving and delivering shipments to customers with statistics and evaluation</string>
+    <string name="logo_hyperone">logo_hyperone</string>
+    <string name="icon_logo">icon_logo</string>
+</resources>

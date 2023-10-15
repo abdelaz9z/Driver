@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526041867440",
+    "project_id": "driver-hyperone",
+    "storage_bucket": "driver-hyperone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526041867440:android:65cf84759cfbe59d1d4775",
+        "android_client_info": {
+          "package_name": "com.hyperone.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5LryfbWvTSwmc6ayvkefcQbfTTJjb7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

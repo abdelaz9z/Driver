@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--*****************************************************************************************-->
+    <!-- Basic colors -->
+    <!--*****************************************************************************************-->
+    <color name="platinum">#E8E8E8</color>
+    <color name="cultured">#F6F6F6</color>
+
+    <color name="cyan_cobalt_blue">#294B9B</color>
+    <color name="venetian_red">#D84A30</color>
+    <color name="philippine_gray">#8D8D8D</color>
+    <color name="classy_grey">#7D7D7B</color>
+    <color name="chinese_silver">#CECBCB</color>
+    <color name="dark_charcoal">#333333</color>
+    <color name="lotion">#FAFAFA</color>
+    <color name="medium_green">#28B63E</color>
+    <!--*****************************************************************************************-->
+
+    <color name="strokeColor">#707070</color>
+</resources>
